@@ -1,7 +1,7 @@
 body {
-    font-family: Helvetica, sans-serif;
-    font-weight: 600
+    font-family: Palatino, URW Palladio L, serif;
     text-align: center;
+    font-weight: 600
     padding: 20px;
     transition: background 0.3s, color 0.3s;
     background: #f8f9fa;
