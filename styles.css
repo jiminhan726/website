@@ -56,23 +56,3 @@ li {
     background: #444;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
-
-a:link {
-  color: blue; /* Unvisited link color */
-  text-decoration: none; /* Remove underline */
-}
-
-a:visited {
-  color: pink; /* Visited link color */
-  text-decoration: none;
-}
-
-a:hover {
-  color: green; /* Hovered link color */
-  text-decoration: underline; /* Add underline on hover */
-}
-
-a:active {
-  color: red; /* Active link color */
-  text-decoration: underline;
-}
